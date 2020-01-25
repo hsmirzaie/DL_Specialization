@@ -1,7 +1,6 @@
 # DL_Specialization
 
-This repository contains my implementations of programming assignments from Deep Learning Specialization taught by Andrew Ng through 
-Coursera. This specialization aims to help the subscribers to understand deep learning fundamentals, apply them, and build a
+This repository contains my implementations of programming assignments from **Deep Learning Specialization** taught by *Andrew Ng* through Coursera. This specialization aims to help the subscribers to understand deep learning fundamentals, apply them, and build a
 career in AI. There are five courses in this specialization:
 
 
