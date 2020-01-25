@@ -9,7 +9,7 @@ career in AI. There are five courses in this specialization:
 2.  **Improving Deep Neural Networks**
 3.  **Structuring Machine Learning Projects** (which has no programming assignment, so I haven't Included it in the repo.)
 4.  **Convolutional Neural Networks**
-5.  **Sequence Models** (that I skipped it because I wanted to take another full course ([CS224n](https://github.com/hsmirzaie/CS224n)) on the subject of NLP first)
+5.  **Sequence Models** (that I skipped it because I decided to take another full course ([CS224n](https://github.com/hsmirzaie/CS224n)) on the subject of NLP first)
 
 # My Learning from the Specialization
 
