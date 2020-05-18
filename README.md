@@ -13,12 +13,12 @@ career in AI. There are five courses in this specialization:
 
 # My Learning from the Specialization
 
-### **from the Course 1**
+### **Course 1**
 
 * Learn how to implement shallow and deep neural networks step by step
 * Image classification with DNN
 
-### **from the Course 2**
+### **Course 2**
 
 * Learn how to improve the image classification accuracy with:
   * Initialization
@@ -37,7 +37,7 @@ career in AI. There are five courses in this specialization:
 
 * Learn How to build a neural network using Tensorflow (on SIGNS Dataset)
 
-### **from the Course 3**
+### **Course 3**
 
 * Get familiar with some important principles in DL
   * Orthogonalization
@@ -50,7 +50,7 @@ career in AI. There are five courses in this specialization:
   * End-to-End Learning
   
 
-### **from the Course 4**
+### **Course 4**
 
 * Learn how to implement ConvNet step by step using numpy
   * CONV layers
